@@ -8,7 +8,7 @@
 ```ts
 const sadra = {
 	title: 'Backend Developer',
-	experience: '4+ years',
+	experience: '5+ years',
 	stack: ['Node.js', 'TypeScript', 'MongoDB'],
 	interests: ['Linux', 'DevOps', 'Automation', 'Backend Architecture'],
 	mindset: 'Always learning, always building',
