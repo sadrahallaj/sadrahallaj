@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Sadra 👋</h1>
+<p align="center">💻 Backend Developer | 🐧 Linux User | 🔧 DevOps Enthusiast | ☕ Coffee & Code</p>
 
-<!--
-**sadrahallaj/sadrahallaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const sadra = {
+	title: 'Backend Developer',
+	experience: '4+ years',
+	stack: ['Node.js', 'TypeScript', 'MongoDB'],
+	interests: ['Linux', 'DevOps', 'Automation', 'Backend Architecture'],
+	mindset: 'Always learning, always building',
+}
+```
+
+### 🛠 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** Node.js, Express.js
+- **Databases:** MongoDB, Redis
+- **Dev Tools:** Git, Docker, RESTful APIs, Linux
+
+### 🌐 Let's Connect
+
+- 📧 [sadra.hallajhassas@gmail.com](mailto:sadra.hallajhassas@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sadra-hallaj-hassas/)
+- 🧑‍💻 [GitHub](https://github.com/sadrahallaj)
+- 💬 [Telegram](https://t.me/sadra_hallaj)
